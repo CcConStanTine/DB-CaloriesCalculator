@@ -7,7 +7,7 @@ It contains:
 - schema.sql - sql file which creates every table and assign the primary and foreign keys to them
 - insert.sql - sql file with insert queries in purpose of having some data in the database to have something to work on
 - select.sql - sql file with very different select queries
-- update.sql - sql file with queries whhich updates exisiting data in db
+- update.sql - sql file with queries which updates exisiting data in db
 
 ### ERD diagram
 <div style="display: table-row">
